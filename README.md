@@ -5,3 +5,7 @@ Ejecutar el siguiente comando:
 ```
 npm install
 ```
+
+Para ejecutar la aplicación:
+
+node app -d "Madrid España"
